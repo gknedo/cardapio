@@ -1,12 +1,13 @@
 Jogos todas as quintas à partir de 19:30
 
-# Bar
+# Cardápio Bar
 
 | Cervejas | |
 | :-- | --: |
 | Brahma Lata | R$ 4.00 |
 | Spaten Latão | R$ 7.00 |
 
+* * *
 
 | Refrigerantes | |
 | :-- | --: |
