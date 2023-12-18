@@ -24,8 +24,10 @@
 - Permanência mínima de 1 hora.
 - Botão escolhe o jogo (Hold'em, Pineapple, PLO4, PLO5, PLO6) com possibilidade de guia.
 - 5% do valor do pote é retido, sendo metade retirado como rake e metade para se adicionar ao jackpot da próxima semana, arredondando-se quando necessário.
+- Como incentivo a pontualidade, na primeira órbita de cada dia, um valor equivalente ao big blind será adicionado ao pote a cada mão.
+- Como incentivo a pontualidade, na segunda órbita de cada dia, um valor equivalente ao small blind será adicionado ao pote a cada mão.
 - Sempre que o botão passar pelo dealer uma [mão extra](index.md#mão-extra) é jogada.
-- Caso as cartas do baralho não sejam suficientes, as cartas descartadas e queimadas serão reembaralhadas, caso ainda assim a quantidade de cartas seja insuficiente, cada jogador deverá descartar uma carta.
+- Caso as cartas do baralho não sejam suficientes, as cartas descartadas e queimadas serão reembaralhadas, caso ainda assim a quantidade de cartas seja insuficiente, cada jogador deverá descartar uma carta que será reembaralhada.
 
 # Jackpot
 Valor atual do Jackpot: **R$229,00**
@@ -78,7 +80,7 @@ Valor atual do Jackpot: **R$229,00**
 | Straight Flush em K | 5% | 5% | 90% |
 
 # Mão Extra
-O Botão volta temporariamente para o vencedor da última mão e uma carta é sorteada, de acordo com o valor da carta o jogo é definido:
+As regras a seguir só valem para quando a mão jogada for uma mão extra. Nestas, o botão volta temporariamente para o vencedor da última mão e uma carta é sorteada, de acordo com o valor da carta o jogo é definido:
 
 | Jogo | Cartas |
 | :-- | :--:|
@@ -95,7 +97,7 @@ O naipe da carta definirá o estilo:
 | Paus | Swap |
 | Ouros | Bomb Pot |
 | Copa | Board Duplo |
-| Espadas | All in ou Fold (6bb) |
+| Espadas | Call ou Fold |
 
 ## Swap
 Uma vez por mão, antes da próxima street, cada jogador poderá descartar qualquer quantidade de cartas de sua mão e comprar novas.
@@ -106,5 +108,5 @@ Sem small e big blinds, o jogo começa com um ante de 3 big blinds e com o flop 
 ## Board Duplo
 Dois boards são jogados simultaneamente, o pote é divido metade para cada board.
 
-## All in ou Fold
-Sem small e big blinds, ante de 1 big blind, cada jogador só tem a opção de pagar 5 big blinds ou foldar pré-flop e a mão ocorrerá como se todos os jogadores estiverem em all in. Quem pagar em fizer a pior mão paga um adicional de 2 big blinds.
+## Call ou Fold
+Sem small e big blinds, ante de 1 big blind, cada jogador só tem a opção de pagar 6 big blinds ou foldar pré-flop, a mão ocorre como se todos os jogadores estiverem em all in. Quem pagar em fizer a pior mão paga um adicional de 2 big blinds.
