@@ -70,7 +70,7 @@
 | Straight Flush em K | 5% | 5% | 90% |
 
 # Mão Extra
-O Botão volta temporariamente para o vencedor da última mão e uma carta é sorteada e de acordo com o valor da carta o jogo é definido:
+O Botão volta temporariamente para o vencedor da última mão e uma carta é sorteada, de acordo com o valor da carta o jogo é definido:
 
 | Jogo | Cartas |
 | :-- | :--:|
