@@ -82,16 +82,30 @@ O Botão volta temporariamente para o vencedor da última mão e uma carta é so
 | Jogo | Cartas |
 | :-- | :--:|
 | Texas Hold'em | 2 ou 3 |
-| Pineapple | 4 ou 5 |
-| PLO4 | 6, 7 ou 8 |
-| PLO5 | 9, T ou J |
-| PLO6 | Q, K ou A |
+| Pineapple | 4, 5 ou 6 |
+| PLO4 | 7, 8 ou 9 |
+| PLO5 | T, J ou Q |
+| PLO6 | K ou A |
 
 O naipe da carta definirá o estilo:
 
 | Naipe | Jogo |
 | :-- | :--:|
-| Paus | Hi/Lo (A5) Game |
+| Paus | Swap |
 | Ouros | Bomb Pot |
 | Copa | Board Duplo |
-| Espadas | Bomb Pot com Board Duplo |
+| Espadas | All in ou Fold (6bb) |
+
+Caso as cartas do baralho não sejam suficientes, as cartas descartadas e queimadas serão reembaralhadas, caso ainda assim a quantidade de cartas seja insuficiente, cada jogador deverá descartar uma carta.
+
+## Swap
+Uma vez por mão, antes da próxima street, cada jogador poderá descartar qualquer quantidade de cartas de sua mão e comprar novas.
+
+## Bomb Pot
+Sem small e big blinds, o jogo começa com um ante de 3 big blinds e com o flop já distribuído.
+
+## Board Duplo
+Dois boards são jogados simultaneamente, o pote é divido metade para cada board.
+
+## All in ou Fold
+Sem small e big blinds, ante de 1 big blind, cada jogador só tem a opção de pagar 5 big blinds ou foldar pré-flop e a mão ocorrerá como se todos os jogadores estiverem em all in. Quem pagar em fizer a pior mão paga um adicional de 2 big blinds.
