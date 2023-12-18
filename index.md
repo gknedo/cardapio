@@ -1,4 +1,3 @@
-Jogos todas as quintas à partir de 19:30
 
 # Cardápio Bar
 
