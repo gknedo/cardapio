@@ -107,4 +107,4 @@ Sem small e big blinds, o jogo começa com um ante de 3 big blinds e com o flop 
 Dois boards são jogados simultaneamente, o pote é divido metade para cada board.
 
 ## Call ou Fold
-Sem small e big blinds, ante de 1 big blind, cada jogador só tem a opção de pagar 6 big blinds ou foldar pré-flop, a mão ocorre como se todos os jogadores estiverem em all in. Quem pagar em fizer a pior mão paga um adicional de 2 big blinds.
+Sem small e big blinds, ante de 1 big blind, cada jogador só tem a opção de pagar 6 big blinds ou foldar pré-flop, a mão ocorre como se todos os jogadores estiverem em all in. Quem pagar e fizer a pior mão após o river deve pagar um adicional de 2 big blinds.
