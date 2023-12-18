@@ -1,11 +1,10 @@
-**Regras Gerais**
+**Funcionamento**
 
 - Frente mínima de R$25.
 - Blinds R$ 0.25/0.50
 - Permanência mínima de 1 hora.
 - Botão escolhe o jogo (Hold'em, Pineapple, PLO4, PLO5, PLO6) com possibilidade de guia.
-- 2.5% do valor do pote é retirado como rake (arredonda-se quando necessário)
-- 2.5% do valor do pote é adicionado ao jackpot (arredonda-se quando necessário)
+- 5% do valor do pote é retido, sendo metade retirado como rake e metade para se adicionar ao jackpot da próxima semana, arredondando-se quando necessário.
 - Sempre que o botão passar pelo dealer uma mão extra é jogada.
 
 # Cardápio Bar
@@ -22,6 +21,8 @@
 | Coca Lata | R$ 5.00 |
 
 # Jackpot
+Valor atual do Jackpot: **R$229,00**
+
 ## Regras Gerais
 - Para ganhar o Jackpot é necessário utilizar duas cartas da mão e três cartas comunitárias.
 - Para ganhar o Jackpot não é necessário chegar ao showdown, mas a mão não poderá ter sido foldada.
@@ -84,7 +85,7 @@ O naipe da carta definirá o estilo:
 
 | Naipe | Jogo |
 | :-- | :--:|
-| Paus | Com Guia |
+| Paus | Hi/Lo (A5) Game |
 | Ouros | Bomb Pot |
 | Copa | Board Duplo |
 | Espadas | Bomb Pot com Board Duplo |
