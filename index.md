@@ -1,5 +1,5 @@
 **Acesso Rápido**
-- [Minibar](index.md#cardápio-do-bar)
+- [Minibar](index.md#minibar)
 - [Regras da Casa](index.md#regras-da-casa)
 - [Jackpot](index.md#jackpot)
 - [Mão Extra](index.md#mão-extra)
