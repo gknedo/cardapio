@@ -1,4 +1,5 @@
 ** Acesso Rápido **
+
 [Regras da Casa](index.md#regras-da-casa)
 [Cardápio do Bar](index.md#cardápio-do-bar)
 [Jackpot](index.md#jackpot)
