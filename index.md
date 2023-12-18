@@ -1,10 +1,10 @@
 **Acesso Rápido**
-- [Cardápio do Bar](index.md#cardápio-do-bar)
+- [Minibar](index.md#cardápio-do-bar)
 - [Regras da Casa](index.md#regras-da-casa)
 - [Jackpot](index.md#jackpot)
 - [Mão Extra](index.md#mão-extra)
 
-# Cardápio do Bar
+# Minibar
 
 | Cervejas | |
 | :-- | --: |
