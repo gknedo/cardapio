@@ -83,6 +83,7 @@ O Botão volta temporariamente para o vencedor da última mão e uma carta é so
 O naipe da carta definirá o estilo:
 
 | Naipe | Jogo |
+| :-- | :--:|
 | Paus | Com Guia |
 | Ouros | Bomb Pot |
 | Copa | Board Duplo |
