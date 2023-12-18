@@ -18,6 +18,7 @@
 - A probabilidade de acerto do Jackpot é de aproxidamente 1 em 1000 mãos para um showdown de 3 jogadores.
 
 ## Texas Hold'em
+
 | Mão | Prêmio (Jogador) | Prêmio (Mesa) | Acumulado |
 | :-- | :--:| :--: | :--: |
 | Royal Flush | 25% | 25% | 50% |
@@ -26,6 +27,7 @@
 | Quadra de Reis | 5% | 5% | 90% |
 
 ## Pineapple
+
 | Mão | Prêmio (Jogador) | Prêmio (Mesa) | Acumulado |
 | :-- | :--:| :--: | :--: |
 | Royal Flush | 25% | 25% | 50% |
@@ -34,6 +36,7 @@
 | Demais Straight Flushes | 5% | 5% | 90% |
 
 ## Omaha 4 Cartas
+
 | Mão | Prêmio (Jogador) | Prêmio (Mesa) | Acumulado |
 | :-- | :--:| :--: | :--: |
 | Royal Flush | 25% | 25% | 50% |
@@ -41,12 +44,14 @@
 | Straight Flush em Q ou J | 12.5% | 12.5% | 75% |
 
 ## Omaha 5 Cartas
+
 | Mão | Prêmio (Jogador) | Prêmio (Mesa) | Acumulado |
 | :-- | :--:| :--: | :--: |
 | Royal Flush | 25% | 25% | 50% |
 | Straight Flush em K | 12.5% | 12.5% | 75% |
 
 ## Omaha 6 Cartas
+
 | Mão | Prêmio (Jogador) | Prêmio (Mesa) | Acumulado |
 | :-- | :--:| :--: | :--: |
 | Royal Flush | 12.5% | 12.5% | 75% |
