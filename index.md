@@ -5,6 +5,7 @@
 | Brahma Lata | R$ 4.00 |
 | Spaten Latão | R$ 7.00 |
 
+
 | Refrigerantes | |
 | :-- | --: |
 | Coca Lata | R$ 5.00 |
