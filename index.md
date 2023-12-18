@@ -1,10 +1,8 @@
-** Acesso Rápido **
-
-[Regras da Casa](index.md#regras-da-casa)
-[Cardápio do Bar](index.md#cardápio-do-bar)
-[Jackpot](index.md#jackpot)
-[Mão Extra](index.md#mão-extra)
-https://github.com/gknedo/cardapio/blob/main/
+**Acesso Rápido**
+- [Regras da Casa](index.md#regras-da-casa)
+- [Cardápio do Bar](index.md#cardápio-do-bar)
+- [Jackpot](index.md#jackpot)
+- [Mão Extra](index.md#mão-extra)
 
 # Regras da Casa
 
