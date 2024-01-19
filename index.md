@@ -27,7 +27,7 @@
 - Sempre que o botão passar pelo dealer uma [mão extra](index.md#mão-extra) é jogada.
 
 # Jackpot
-Valor atual do Jackpot: **R$332,00**
+Valor atual do Jackpot: **R$374,00**
 
 ## Condições
 - Para ganhar o Jackpot é necessário utilizar duas cartas da mão e três cartas comunitárias.
