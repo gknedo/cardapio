@@ -5,11 +5,9 @@
 # Regras da Casa
 
 - Frente de R$25 ou mais, blinds de R$ 0.25/0.50 e tempo de permanência de mínimo de 1 hora.
-- Botão escolhe o jogo (Hold'em, Pineapple, PLO4, PLO5, PLO6) com possibilidade de guia.
-- Caso as cartas do baralho não sejam suficientes, as cartas descartadas e queimadas serão reembaralhadas, caso ainda assim a quantidade de cartas seja insuficiente, cada jogador deverá descartar uma carta que será reembaralhada.
+- Botão escolhe o jogo (Hold'em, Swap, Pineapple, PLO4, PLO5, PLO6) com possibilidade de guia para jogos com 4 ou mais cartas.
 - 5% do valor do pote é retido, sendo destes 3.75% retirado como rake e 1.25% para se adicionar ao jackpot da próxima semana, arredondando-se quando necessário.
 - Como incentivo a pontualidade, na primeira órbita de cada dia, um valor equivalente ao big blind será adicionado ao pote a cada mão. Na segunda órbita de cada dia, um valor equivalente ao small blind será adicionado ao pote a cada mão.
-- Sempre que o botão passar pelo dealer uma [mão extra](index.md#mão-extra) é jogada.
 
 # Jackpot
 Valor atual do Jackpot: **R$434,00**
