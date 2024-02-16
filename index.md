@@ -10,7 +10,7 @@
 - Como incentivo a pontualidade, na primeira órbita de cada dia, um valor equivalente ao big blind será adicionado ao pote a cada mão. Na segunda órbita de cada dia, um valor equivalente ao small blind será adicionado ao pote a cada mão.
 
 # Jackpot
-Valor atual do Jackpot: **R$484,56**
+Valor atual do Jackpot: **R$537,00**
 
 ## Condições
 - Para ganhar o Jackpot é necessário utilizar duas cartas da mão e três cartas comunitárias.
