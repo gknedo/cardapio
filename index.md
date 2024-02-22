@@ -23,6 +23,8 @@ Valor atual do Jackpot: **R$537,00**
 
 ## Texas Hold'em
 
+**Antigo**
+
 | Mão | Prêmio (Jogador) | Prêmio (Mesa) | Acumulado |
 | :-- | :--:| :--: | :--: |
 | Royal Flush | 25% | 25% | 50% |
@@ -30,7 +32,19 @@ Valor atual do Jackpot: **R$537,00**
 | Quadra de Áses | 12.5% | 12.5% | 75% |
 | Quadra de Reis | 5% | 5% | 90% |
 
+**Novo**
+
+| Mão | Prêmio (Jogador) | Prêmio (Mesa) | Acumulado |
+| :-- | :--:| :--: | :--: |
+| Royal Flush | 25% | 25% | 50% |
+| Straight Flush | 25% | 25% | 50% |
+| Quadra de K, Q ou J | 10% | 10% | 80% |
+| Quadra de T, 9 ou 8 | 5% | 5% | 90% |
+| Quadra de 2 | 5% | - | 95% |
+
 ## Pineapple
+
+**Antigo**
 
 | Mão | Prêmio (Jogador) | Prêmio (Mesa) | Acumulado |
 | :-- | :--:| :--: | :--: |
@@ -39,7 +53,20 @@ Valor atual do Jackpot: **R$537,00**
 | Straight Flush em J ou T | 12.5% | 12.5% | 75% |
 | Demais Straight Flushes | 5% | 5% | 90% |
 
+**Novo**
+
+| Mão | Prêmio (Jogador) | Prêmio (Mesa) | Acumulado |
+| :-- | :--:| :--: | :--: |
+| Royal Flush | 25% | 25% | 50% |
+| Straight Flush em 9+ | 25% | 25% | 50% |
+| Demais Straight Flushes | 10% | 10% | 80% |
+| Quadra de A | 10% | 10% | 80% |
+| Quadra de K | 5% | 5% | 90% |
+| Quadra de 2 | 2,5% | - | 97,5% |
+
 ## Omaha 4 Cartas
+
+**Antigo**
 
 | Mão | Prêmio (Jogador) | Prêmio (Mesa) | Acumulado |
 | :-- | :--:| :--: | :--: |
@@ -47,16 +74,50 @@ Valor atual do Jackpot: **R$537,00**
 | Straight Flush em K | 25% | 25% | 50% |
 | Straight Flush em Q ou J | 12.5% | 12.5% | 75% |
 
+**Novo**
+
+| Mão | Prêmio (Jogador) | Prêmio (Mesa) | Acumulado |
+| :-- | :--:| :--: | :--: |
+| Royal Flush | 25% | 25% | 50% |
+| Straight Flush em K ou Q | 25% | 25% | 50% |
+| Straight Flush em 8+ | 10% | 10% | 80% |
+| Demais Straight Flushs | 5% | 5% | 90% |
+| Quadra de 2 | 1,75% | - | 98,25% |
+
 ## Omaha 5 Cartas
+
+**Antigo**
 
 | Mão | Prêmio (Jogador) | Prêmio (Mesa) | Acumulado |
 | :-- | :--:| :--: | :--: |
 | Royal Flush | 25% | 25% | 50% |
 | Straight Flush em K | 12.5% | 12.5% | 75% |
 
+**Novo**
+
+| Mão | Prêmio (Jogador) | Prêmio (Mesa) | Acumulado |
+| :-- | :--:| :--: | :--: |
+| Royal Flush | 25% | 25% | 50% |
+| Straight Flush em K | 25% | 25% | 50% |
+| Straight Flush em Q ou J | 10% | 10% | 80% |
+| Straight Flush em T ou 9 | 5% | 5% | 90% |
+| Quadra de 2 | 1,25% | - | 98,75% |
+
 ## Omaha 6 Cartas
+
+**Antigo**
 
 | Mão | Prêmio (Jogador) | Prêmio (Mesa) | Acumulado |
 | :-- | :--:| :--: | :--: |
 | Royal Flush | 12.5% | 12.5% | 75% |
 | Straight Flush em K | 5% | 5% | 90% |
+
+**Novo**
+
+| Mão | Prêmio (Jogador) | Prêmio (Mesa) | Acumulado |
+| :-- | :--:| :--: | :--: |
+| Royal Flush | 25% | 25% | 50% |
+| Straight Flush em K | 15% | 15% | 70% |
+| Straight Flush em Q | 10% | 10% | 80% |
+| Straight Flush em J | 5% | 5% | 90% |
+| Quadra de 2 | 1% | - | 99% |
