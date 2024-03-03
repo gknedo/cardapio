@@ -10,7 +10,7 @@
 - 5% do valor do pote é retido, sendo destes 3.75% retirado como rake e 1.25% para se adicionar ao jackpot da próxima semana, arredondando-se quando necessário.
 
 # Jackpot
-Valor atual do Jackpot: **R$637,13**
+Valor atual do Jackpot: **R$698,69**
 
 ## Condições
 - Para ganhar o Jackpot é necessário utilizar duas cartas da mão e três cartas comunitárias.
