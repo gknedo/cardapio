@@ -4,22 +4,20 @@
 
 # Regras da Casa
 
-- Frente de R$25 ou mais, aposta obrigatória de r$1 no botão e tempo de permanência de mínimo de 1 hora.
+- Frente de R$25 ou mais, aposta obrigatória de $1 no botão e tempo de permanência de mínimo de 1 hora.
 - No Limit Hold'em até as 22:30.
-- Após as 22:30, botão escolhe o jogo (Hold'em, Swap, Pineapple, PLO4, PLO5, PLO6) com possibilidade de guia para jogos com 4 ou mais cartas.
+- Após as 22:30, botão escolhe o jogo (Hold'em, Swap, Pineapple, PLO4, PLO5, PLO6).
 - 5% do valor do pote é retido, sendo destes 3.75% retirado como rake e 1.25% para se adicionar ao jackpot da próxima semana, arredondando-se quando necessário.
 
 # Jackpot
 Valor atual do Jackpot: **R$715,75**
 
 ## Condições
-- Para ganhar o Jackpot é necessário utilizar duas cartas da mão e três cartas comunitárias.
-- Para ganhar o Jackpot não é necessário chegar ao showdown, mas a mão não poderá ter sido foldada.
-- Do valor do prêmio, 50% do valor irá para o jogador que acertou o jackpot e 50% do valor é distribuído entre os outros jogadores que receberam cartas na mão correspondente.
+- Para ganhar o Jackpot não é necessário chegar ao showdown, mas a mão não poderá ter sido foldada previamente.
 - Ao menos 50% do valor do Jackpot é mantido para o próximo Jackpot.
-- Caso o jogo seja Swap, o jackpot ainda é válido, mas o valor do prêmio é dividido pela metade.
 - Caso o jogo seja de board duplo, apenas o primeiro board conta para o jackpot.
-- A probabilidade de acerto do Jackpot é de aproxidamente 1 em 1000 mãos para um showdown de 3 jogadores.
+- Caso o jogo seja Swap, o jackpot ainda é válido, mas o valor do prêmio é dividido pela metade.
+- A probabilidade de acerto do Jackpot é de aproxidamente 1 em 1000 mãos.
 
 ## Texas Hold'em
 
