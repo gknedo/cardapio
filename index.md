@@ -10,7 +10,7 @@
 - 5% do valor do pote é retido, sendo destes 3.75% retirado como rake e 1.25% para se adicionar ao jackpot da próxima semana, arredondando-se quando necessário.
 
 # Jackpot
-Valor atual do Jackpot: **R$715,75**
+Valor atual do Jackpot: **R$763,06**
 
 ## Condições
 - Para ganhar o Jackpot não é necessário chegar ao showdown, mas a mão não poderá ter sido foldada previamente.
