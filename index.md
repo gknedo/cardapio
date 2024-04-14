@@ -18,7 +18,7 @@ Valor atual do Jackpot: **R$1.190,75**
 - Caso o jogo seja de board duplo, apenas o primeiro board conta para o jackpot.
 - Caso o jogo seja Swap, o jackpot ainda é válido, mas o valor do prêmio é dividido pela metade.
 - A probabilidade de acerto do Jackpot é de aproxidamente 1 em 1000 mãos.
-
+- Caso mais de um jackpot aconteça por vez, será pago somente o jackpot com a maior premiação total
 ## Texas Hold'em
 
 | Mão | Prêmio (Jogador) | Prêmio (Mesa) | Acumulado |
@@ -69,3 +69,14 @@ Valor atual do Jackpot: **R$1.190,75**
 | Straight Flush em Q | 10% | 10% | 80% |
 | Straight Flush em J | 5% | 5% | 90% |
 | Quadra de 2 | 1% | - | 99% |
+
+## Bad Beat Jackpot
+- Obrigatório o uso das duas cartas da mão.
+- Da porcentagem paga do prêmio, 25% será dada ao perdedor da mão, 10% ao vencedor da mão e 65% dividido entre todos os jogadores que receberam cartas na mão (incluindo vencedor e perdedor).
+
+| Mão Perdedora | NLH | Pineapple | PLO4 | PLO5 | PLO6 |
+| :-- | :--:| :--: | :--: |
+| Straight Flush | N/A | 50% | 35% | 25% | 15% |
+| Quadra | 35% | 30% | 25% | 18% | 12% |
+| Full House em J | 20% | 12% | - | - | - |
+
