@@ -75,7 +75,7 @@ Valor atual do Jackpot: **R$1.190,75**
 - Da porcentagem paga do prêmio, 25% será dada ao perdedor da mão, 10% ao vencedor da mão e 65% dividido entre todos os jogadores que receberam cartas na mão (incluindo vencedor e perdedor).
 
 | Mão Perdedora | NLH | Pineapple | PLO4 | PLO5 | PLO6 |
-| :-- | :--:| :--: | :--: |
+| :-- | :--:| :--: | :--: | :--: | :--: |
 | Straight Flush | N/A | 50% | 35% | 25% | 15% |
 | Quadra | 35% | 30% | 25% | 18% | 12% |
 | Full House em J | 20% | 12% | - | - | - |
