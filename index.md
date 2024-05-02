@@ -8,6 +8,7 @@
 - No Limit Hold'em até as 22:30.
 - Após as 22:30, botão escolhe o jogo (Hold'em, Swap, Pineapple, PLO4, PLO5, PLO6).
 - 5% do valor do pote é retido, sendo destes 3.75% retirado como rake e 1.25% para se adicionar ao jackpot da próxima semana, arredondando-se quando necessário.
+- O Valor retido do rake e o valor adicionado ao jackpot podem ser diferentes em eventos especiais.
 
 # Jackpot
 Valor atual do Jackpot: **R$1.567,12**
