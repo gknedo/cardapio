@@ -11,7 +11,7 @@
 - O Valor retido do rake e o valor adicionado ao jackpot podem ser diferentes em eventos especiais.
 
 # Jackpot
-Valor atual do Jackpot: **R$702,00**
+Valor atual do Jackpot: **R$742,00**
 
 ## Condições
 - Para ganhar o Jackpot não é necessário chegar ao showdown, mas a mão não poderá ter sido foldada previamente.
