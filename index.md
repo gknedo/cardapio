@@ -11,7 +11,7 @@
 - O Valor retido do rake e o valor adicionado ao jackpot podem ser diferentes em eventos especiais.
 
 # Jackpot
-Valor atual do Jackpot: **R$709,45**
+Valor atual do Jackpot: **R$652.45**
 
 ## Condições
 - Para ganhar o Jackpot não é necessário chegar ao showdown, mas a mão não poderá ter sido foldada previamente.
@@ -26,7 +26,7 @@ Valor atual do Jackpot: **R$709,45**
 | :-- | :--:| :--: | :--: |
 | Royal Flush | 25% | 25% | 50% |
 | Straight Flush | 25% | 25% | 50% |
-| Quadra de K, Q ou J | 10% | 10% | 80% |
+| Quadra de A, K, Q ou J | 10% | 10% | 80% |
 | Quadra de T, 9 ou 8 | 5% | 5% | 90% |
 | Quadra de 2 | 5% | - | 95% |
 
