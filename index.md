@@ -81,13 +81,3 @@ Valor atual do Jackpot: **R$510.07**
 | Straight Flush | N/A | 50% | 35% | 25% | 15% |
 | Quadra | 35% | 30% | 25% | 18% | 12% |
 | Full House em J | 20% | 12% | - | - | - |
-
-# Histórico de Pagamentos
-
-| Data | Jogo | Mão | Premiação |
-| :-- | :--:| :--: | :--: |
-| 02/05/2024 | NLH | Quadra de 9 | 10% |
-| 03/05/2024 | NLH | Quadra de Q | 20% |
-| 03/05/2024 | NLH | Royal Flush | 50% |
-| 10/05/2024 | NLH | Quadra de 8 | 10% |
-| 14/05/2024 | NLH | Quadra de A | 20% |
