@@ -12,7 +12,7 @@
 - A casa segue as regras definidas pela Associação dos Diretores de Torneios de Poker (ADTP), que podem ser consultadas [aqui](regras.pdf).
 
 # Jackpot
-Valor atual do Jackpot: **R$510.07**
+Valor atual do Jackpot: **R$303.00**
 
 ## Condições
 - Para ganhar o Jackpot não é necessário chegar ao showdown, mas a mão não poderá ter sido foldada previamente.
