@@ -12,7 +12,7 @@
 - A casa segue as regras definidas pela Associação dos Diretores de Torneios de Poker (ADTP), que podem ser consultadas [aqui](regras.pdf).
 
 # Jackpot
-Valor atual do Jackpot: **R$326.25**
+Valor atual do Jackpot: **R$331.75**
 
 ## Condições
 - Para ganhar o Jackpot não é necessário chegar ao showdown, mas a mão não poderá ter sido foldada previamente.
@@ -26,9 +26,9 @@ Valor atual do Jackpot: **R$326.25**
 | Mão | Prêmio (Jogador) | Prêmio (Mesa) | Acumulado |
 | :-- | :--:| :--: | :--: |
 | Royal Flush | 25% | 25% | 50% |
-| Straight Flush | 25% | 25% | 50% |
-| Quadra de A, K, Q ou J | 10% | 10% | 80% |
-| Quadra de T, 9 ou 8 | 5% | 5% | 90% |
+| Straight Flush em 9+ | 25% | 25% | 50% |
+| Demais Straight Flushes | 10% | 10% | 50% |
+| Quadra de A, K ou Q | 5% | 5% | 80% |
 | Quadra de 2 | 5% | - | 95% |
 
 ## Pineapple
@@ -36,10 +36,9 @@ Valor atual do Jackpot: **R$326.25**
 | Mão | Prêmio (Jogador) | Prêmio (Mesa) | Acumulado |
 | :-- | :--:| :--: | :--: |
 | Royal Flush | 25% | 25% | 50% |
-| Straight Flush em 9+ | 25% | 25% | 50% |
+| Straight Flush em K | 25% | 25% | 50% |
+| Straight Flush em Q ou J | 10% | 10% | 80% |
 | Demais Straight Flushes | 10% | 10% | 80% |
-| Quadra de A | 10% | 10% | 80% |
-| Quadra de K | 5% | 5% | 90% |
 | Quadra de 2 | 2,5% | - | 97,5% |
 
 ## Omaha 4 Cartas
@@ -47,37 +46,22 @@ Valor atual do Jackpot: **R$326.25**
 | Mão | Prêmio (Jogador) | Prêmio (Mesa) | Acumulado |
 | :-- | :--:| :--: | :--: |
 | Royal Flush | 25% | 25% | 50% |
-| Straight Flush em K ou Q | 25% | 25% | 50% |
-| Straight Flush em 8+ | 10% | 10% | 80% |
-| Demais Straight Flushs | 5% | 5% | 90% |
+| Straight Flush em K | 10% | 10% | 50% |
+| Straight Flush em Q, J ou T | 5% | 5% | 80% |
 | Quadra de 2 | 1,75% | - | 98,25% |
 
 ## Omaha 5 Cartas
 
 | Mão | Prêmio (Jogador) | Prêmio (Mesa) | Acumulado |
 | :-- | :--:| :--: | :--: |
-| Royal Flush | 25% | 25% | 50% |
-| Straight Flush em K | 25% | 25% | 50% |
-| Straight Flush em Q ou J | 10% | 10% | 80% |
-| Straight Flush em T ou 9 | 5% | 5% | 90% |
+| Royal Flush | 15% | 15% | 50% |
+| Straight Flush em K ou Q | 5% | 5% | 50% |
 | Quadra de 2 | 1,25% | - | 98,75% |
 
 ## Omaha 6 Cartas
 
 | Mão | Prêmio (Jogador) | Prêmio (Mesa) | Acumulado |
 | :-- | :--:| :--: | :--: |
-| Royal Flush | 25% | 25% | 50% |
-| Straight Flush em K | 15% | 15% | 70% |
-| Straight Flush em Q | 10% | 10% | 80% |
-| Straight Flush em J | 5% | 5% | 90% |
+| Royal Flush | 10% | 10% | 50% |
+| Straight Flush em K | 5% | 5% | 70% |
 | Quadra de 2 | 1% | - | 99% |
-
-## Bad Beat Jackpot
-- Obrigatório o uso das duas cartas da mão.
-- Da porcentagem paga do prêmio, 25% será dada ao perdedor da mão, 10% ao vencedor da mão e 65% dividido entre todos os jogadores que receberam cartas na mão (incluindo vencedor e perdedor).
-
-| Mão Perdedora | NLH | Pineapple | PLO4 | PLO5 | PLO6 |
-| :-- | :--:| :--: | :--: | :--: | :--: |
-| Straight Flush | N/A | 50% | 35% | 25% | 15% |
-| Quadra | 35% | 30% | 25% | 18% | 12% |
-| Full House em J | 20% | 12% | - | - | - |
