@@ -44,9 +44,9 @@ Este regulamento estabelece as regras para a promoção que premiará o líder d
 
 a) Ter no ano, ao final do ranking, uma média mensal de presença nos torneios ou cashes do clube live de ao menos 2 eventos/mês.
 
-b) OU Ter recebido no ano, ao final do ranking, um valor médio de rakeback semanal maior que R$12/semana na soma de todos os clubes online. (Texugo Combate, Texugo LP, Texugo HG e Texugo Poker <Suprema>).
+b) OU Ter recebido no ano, ao final do ranking, um valor médio de rakeback semanal maior que R$12/semana na soma de todos os clubes online. (Texugo Combate, Texugo LP, Texugo HG e Texugo Poker Suprema).
 
-c) OU Ser considerado elegível pela oraganização.
+c) OU Ser considerado elegível pela organização.
 
 4.2. Jogadores que não atenderem às condições de elegibilidade serão automaticamente desclassificados do direito ao prêmio.
 
