@@ -1,6 +1,6 @@
 **Acesso Rápido**
 - [Regras da Casa](index.md#regras-da-casa)
-- [Ranking](ranking-bsop.pdf)
+- [Ranking](ranking-bsop)
 - [Jackpot](index.md#jackpot)
 
 # Regras
